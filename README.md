@@ -12,10 +12,10 @@
 ## 🛠️ Tech Stack
 ```dart
 class Skills {
-  final languages = ['Dart', 'Java', 'JavaScript'];
-  final frameworks = ['Flutter', 'Android'];
-  final databases = ['SQLite', 'MySQL', 'MongoDB'];
-  final tools = ['Flutter SDK', 'Android Studio', 'Git', 'Gradle'];
+  final List<String> languages = ['Dart', 'Java', 'JavaScript'];
+  final List<String> frameworks = ['Flutter', 'Android'];
+  final List<String> databases = ['SQLite', 'MySQL', 'MongoDB'];
+  final List<String> tools = ['Flutter SDK', 'Android Studio', 'Git', 'Gradle'];
 }
 ```
 
