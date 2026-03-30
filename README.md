@@ -1,21 +1,32 @@
-<h1 align="center">☕ Hello World, I'm wish! My real name is Gusty.</h1>
+<h1 align="center">👋 Hey, I'm wish! — Real name Gusty.</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3498DB&center=true&vCenter=true&width=435&lines=Flutter+Developer;Dart+Developer;Android+Developer;Always+learning"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3498DB&center=true&vCenter=true&width=500&lines=Flutter+%26+Dart+Developer;Java+%2F+Android+Developer;Building+clean+%26+fast+mobile+apps;Open+source+enthusiast"/>
 </div>
 
 ## 🚀 About Me
-- 🔭 Currently building mobile apps with Flutter and Dart
-- 🌱 Focused on **Flutter**/**Dart** development for modern, clean UI/UX
-- 💡 Love creating efficient and highly configurable solutions
+- 📱 Passionate **Flutter & Dart** developer — I love building polished, performant mobile apps
+- ☕ Also fluent in **Java** — from Android native to backend logic
+- 🧩 I care about clean architecture, smooth UX, and highly configurable code
+- 🌍 Based in Argentina, building cool stuff from the south of the world
+- 🔨 Always tinkering with new tech, open-source projects, and server infrastructure
 
 ## 🛠️ Tech Stack
 ```dart
-class Skills {
+class Gusty {
+  final String focus = 'Flutter & Dart';
   final List<String> languages = ['Dart', 'Java', 'JavaScript'];
-  final List<String> frameworks = ['Flutter', 'Android'];
+  final List<String> frameworks = ['Flutter', 'Android SDK'];
   final List<String> databases = ['SQLite', 'MySQL', 'MongoDB'];
-  final List<String> tools = ['Flutter SDK', 'Android Studio', 'Git', 'Gradle'];
+  final List<String> tools = [
+    'Flutter SDK',
+    'Android Studio',
+    'Git',
+    'Gradle',
+    'VS Code',
+  ];
+  
+  String get motto => 'Ship it, iterate, improve.';
 }
 ```
 
