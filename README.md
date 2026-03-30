@@ -29,3 +29,7 @@ Flutter & Dart developer from Argentina. I mostly build mobile apps and games â€
 
   <img height="160em" src="https://github-readme-stats-mjca.vercel.app/api/top-langs/?username=wwishhdev&layout=compact&theme=tokyonight&count_private=true&hide_border=true"/>
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=wwishhdev&color=blue&style=flat-square&label=views"/>
+</div>
