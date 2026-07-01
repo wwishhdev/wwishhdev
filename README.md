@@ -15,11 +15,9 @@ Flutter & Dart developer from Argentina. I mostly build mobile apps and games �
 
 ## projects
 
-[**CommandBlockerBungee**](https://github.com/wwishhdev/CommandBlockerBungee) — Minecraft plugin to block commands on BungeeCord/Velocity. Java.
+[**CommandBlocker**](https://github.com/wwishhdev/CommandBlocker) — Minecraft plugin to block commands on BungeeCord/Velocity. Java.
 
 **Debtwood** — Idle tycoon game built in Flutter/Dart.
-
-**Startup-AI-Tycoon** — Tycoon game where you manage an AI startup. Flutter/Dart.
 
 **ZoltHost** — Hosting panel project. TypeScript.
 
